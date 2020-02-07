@@ -1,0 +1,2 @@
+# GlossClone
+Trading Activities.
